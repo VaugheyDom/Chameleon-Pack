@@ -9,8 +9,8 @@ from. There is nothing to build here and nothing to install by hand — the serv
 | | |
 |---|---|
 | file | `chameleon-rig.zip` |
-| size | 361530 bytes |
-| sha1 | `afbc9391881cc237a184324c1449c2e760e0ec16` |
+| size | 365793 bytes |
+| sha1 | `aaf8367f7418a340df8901cba1b364bc8e712fe5` |
 
 The sha1 is what the server sends alongside the URL so clients cache the pack rather than
 re-downloading it on every join. **It changes every time the pack is regenerated**, and a stale
